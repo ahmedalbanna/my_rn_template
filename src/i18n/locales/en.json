@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "welcome": "Welcome Back",
+    "signIn": "Sign In",
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?"
+  },
+  "common": {
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  }
+}

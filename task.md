@@ -1,0 +1,11 @@
+- [x] Initialize Expo project with TypeScript and Expo Router
+- [x] Setup directory structure (`src/core`, `src/features`, `src/shared`)
+- [x] Install essential dependencies
+- [x] Implement `src/core/api/apiClient.ts` with interceptors
+- [x] Implement `src/core/storage/storage.ts` using MMKV
+- [x] Implement `src/core/theme` (colors, typography, spacing)
+- [x] Implement `src/core/providers` (Auth, Query)
+- [x] Implement `src/shared/components` (Button, Input, Card)
+- [x] Implement `src/features/auth` (Data, Application, Presentation)
+- [x] Setup Expo Router structure in `app/`
+- [x] Final verification on simulators
